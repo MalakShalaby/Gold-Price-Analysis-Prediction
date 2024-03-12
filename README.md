@@ -27,14 +27,4 @@ The project utilizes two main datasets:
 ## Conclusion
 The project offers actionable insights and strategies for investors to navigate gold markets effectively. By leveraging advanced analytics and machine learning techniques, investors can make informed decisions and enhance their financial performance in volatile market conditions.
 
-## Getting Started
-To get started with the project:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Explore the Jupyter notebooks to delve into the analysis and modeling process.
-4. Share your feedback and contributions to further enhance the project!
 
-## Acknowledgments
-Special thanks to Kaggle and Nasdaq for providing valuable datasets for this project.
-
-Happy Analyzing and Predicting! 📈✨
